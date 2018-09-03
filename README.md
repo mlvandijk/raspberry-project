@@ -7,6 +7,8 @@ Links for the project
 
 [CodeAcademy CSS](https://www.codecademy.com/learn/learn-css)
 
+[How to rip css from website](https://stackoverflow.com/questions/20438102/how-can-i-easily-copy-the-whole-css-file-from-a-website)
+
 More:
 
 [Coursera HTML + CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
