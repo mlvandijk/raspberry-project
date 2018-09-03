@@ -3,6 +3,8 @@ Links for the project
 
 ## HTML / CSS
 
+[First HTML + CSS](https://www.w3.org/Style/Examples/011/firstcss.en.html)
+
 [CodeAcademy HTML](https://www.codecademy.com/learn/learn-html)
 
 [CodeAcademy CSS](https://www.codecademy.com/learn/learn-css)
