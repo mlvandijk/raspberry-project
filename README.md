@@ -24,3 +24,12 @@ More:
 https://www.raspberrypi.org/
 
 https://www.raspberrypi.org/magpi/issues/
+
+
+## More
+
+Some information that may or may not be relevant:
+
+[How to securily hash passwords](https://security.stackexchange.com/questions/211/how-to-securely-hash-passwords)
+
+[Salt_(cryptography)](https://en.wikipedia.org/wiki/Salt_(cryptography))
