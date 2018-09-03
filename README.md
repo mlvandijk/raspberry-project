@@ -3,7 +3,7 @@ Links for the project
 
 ## HTML / CSS
 
-https://www.coursera.org/learn/html-css-javascript-for-web-developers
+[Coursera HTML + CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
 [CodeAcademy HTML](https://www.codecademy.com/learn/learn-html)
 
