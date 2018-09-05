@@ -15,6 +15,20 @@ More:
 
 [Coursera HTML + CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
+## HTTP GET or POST
+[HTTP Methods GET vs POST](https://www.w3schools.com/tags/ref_httpmethods.asp)
+
+[HTTP Request](https://www.w3.org/Protocols/HTTP/Request.html)
+
+[HTML form example](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data)
+
+[HTTP Requests in JavaScript](https://www.kirupa.com/html5/making_http_requests_js.htm)
+
+## Multimedia
+
+[Embed YouTube video](https://support.google.com/youtube/answer/171780?hl=en)
+
+
 ## Raspberry Pi
 
 [Get started with Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started)
